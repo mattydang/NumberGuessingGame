@@ -6,7 +6,7 @@ let attempts = 0;
 let guess;
 let running = true;
 
-while (running == true){
+while (running){
 
     guess = window.prompt(`Guess a number between ${minNum} - ${maxNum}`);
     guess = Number(guess);
@@ -30,5 +30,4 @@ while (running == true){
             running = false;
         }
     }
-    running = false;
 }
