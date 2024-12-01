@@ -1,4 +1,4 @@
-# Dice Roller
+# Number Guessing Game
 Simple Number Guessing Game. Project used to practice while loops, if statements, and window alerts on JavaScript. Project runnable with Live Server extension.
 
 ## Technologies Used:
@@ -9,10 +9,10 @@ JavaScript was used to generate target number, create window popout to display t
 
 ## Views of Project
 
-<img width="1437" alt="Screenshot 2024-12-01 at 4 31 39 PM" src="https://github.com/user-attachments/assets/d686f6c7-38d7-4694-90d0-89f3412b647e">
-<img width="1435" alt="Screenshot 2024-12-01 at 4 31 49 PM" src="https://github.com/user-attachments/assets/6c1983d8-912c-4d59-84d5-93090e765155">
-<img width="1440" alt="Screenshot 2024-12-01 at 4 31 59 PM" src="https://github.com/user-attachments/assets/c7e2941b-e405-4451-8726-ea0bcb050f47">
-<img width="1439" alt="Screenshot 2024-12-01 at 4 32 33 PM" src="https://github.com/user-attachments/assets/09329e77-6f04-4b7b-9378-8e005a1e4c62">
+<img width="434" alt="Screenshot 2024-12-01 at 4 34 20 PM" src="https://github.com/user-attachments/assets/3ab53d67-e0ca-4c67-96a6-3ea7c2755f07">
+<img width="438" alt="Screenshot 2024-12-01 at 4 34 30 PM" src="https://github.com/user-attachments/assets/92d35e5e-e059-4507-806a-4bd46375c151">
+<img width="437" alt="Screenshot 2024-12-01 at 4 34 37 PM" src="https://github.com/user-attachments/assets/d288985c-191e-4302-bc60-5f76658a1708">
+<img width="439" alt="Screenshot 2024-12-01 at 4 34 59 PM" src="https://github.com/user-attachments/assets/694cb0cb-42f6-469a-ae82-771ee63d0d5c">
 
 ## Author
 - [Anh Vu Dang](https://github.com/mattydang)
